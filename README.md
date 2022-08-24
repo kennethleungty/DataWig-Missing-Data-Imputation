@@ -1,5 +1,5 @@
 # Imputation of Missing Data in Tables with DataWig
-Link to TowardsDataScience article: *Coming Soon*
+Link to TowardsDataScience article: https://towardsdatascience.com/imputation-of-missing-data-in-tables-with-datawig-2d7ab327ece2
 
 ### Context
 Missing values in real-world datasets is a common phenomenon that poses a key challenge for all data practitioners. This issue is even more challenging when the dataset contains heterogeneous data types.
